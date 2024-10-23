@@ -1,0 +1,20 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment foldersssss
+venv/
+sheetGenieEnv/
+
+#Old requirement
+requirements_old.txt
+
+# Log files
+*.log
+
+# Local config or secrets (if applicable)
+.secrets.toml
+
+# Backup or temporary files
+*.swp
+*.bak
